@@ -1,6 +1,6 @@
 /***********************************presentacion******************************
 integrantes: Adrian Sanchez Paredes
- Victor Eduardo Macias Macias
+Victor Eduardo Macias Macias
 Fecha: 21/02/2022
 programa: Actividad de programacion 6.
 Centro Universitario de los Altos/ UNIVERSIDAD DE GUADALAJARA/ INGENIRÍA EN COMPUTACIÓN/ 2DO SEMESTRE
